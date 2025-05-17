@@ -47,13 +47,13 @@
         // Determine the ticket price based on the ticket type
         switch (ticketType) {
             case 'standard':
-                ticketPrice = 35;
+                ticketPrice = 30;
                 break;
             case 'vip':
-                ticketPrice = 55;
+                ticketPrice = 50;
                 break;
             case 'youth':
-                ticketPrice = 17;
+                ticketPrice = 15;
                 break;
             default:
                 ticketPrice = 0; // Default to 0 if no valid type is selected
@@ -213,8 +213,8 @@
         <br />
         <h1>BOOK YOUR TICKETS NOW!</h1>
         <br />
-        <h2>The Grand Feast Europe and UK 2024</h2>
-        <h4>nhow Brussels Bloom - September 22, 2024 (starts at 9:00AM)</h4>
+        <h2>2025 EU and UK Grand Feast in Oslo</h2>
+        <h4>Lambertseter kirke - September 20, 2025 (Registration starts at 1:00 PM)</h4>
     </hgroup>
 
     <article>
@@ -254,9 +254,9 @@
                 >
                     <option value="">Select Ticket Type</option>
                     <!-- No default selected option -->
-                    <option value="standard">Standard - 35€</option>
-                    <option value="vip">VIP - 55€</option>
-                    <option value="youth">Youth (12 to 17 years) - 17€</option>
+                    <option value="standard">Standard - 30€</option>
+                    <option value="vip">Premium - 50€</option>
+                    <!-- <option value="youth">Youth (12 to 17 years) - 17€</option> -->
                 </select>
 
                 <label for="quantity">Quantity*:</label>
@@ -310,7 +310,7 @@
                 <button class="book-now-button" type="submit" disabled={!canReserve || !isValidEmail}>
                     RESERVE NOW
                 </button>
-                <p class="warning">*** Tickets sold are non-refundable ***</p>
+                <p class="warning">*** By clicking Reserve Now you agree that tickets sold are Non-refundable ***</p>
             </div>
         </form>
         <a href="/">back to home</a>

@@ -5,7 +5,7 @@
 <main class="container">
     <article>
         <h2>Terms and Conditions</h2>
-        <p>Last updated: July 09, 2024</p>
+        <p>Last updated: May 31, 2025</p>
         <p>Please read these terms and conditions carefully before using Our Service.</p>
         <h2>Interpretation and Definitions</h2>
         <h3>Interpretation</h3>
@@ -26,7 +26,7 @@
         <p><strong>Third-party Social Media Service</strong> means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.</p>
         </li>
         <li>
-            <p><strong>Country</strong> refers to:  Belgium</p>
+            <p><strong>Country</strong> refers to:  Norway</p>
             </li>
         <li>
         <p><strong>Website</strong> refers to The Feast Europe and UK (referred to as either &quot;We&quot;, &quot;Us&quot;, &quot;Our&quot, or &quot;Company&quot; in this Agreement), accessible from <a href="http://www.grandfeast.eu" rel="external nofollow noopener" target="_blank">http://www.grandfeast.eu</a></p>

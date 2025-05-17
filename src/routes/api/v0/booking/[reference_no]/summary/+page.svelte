@@ -51,11 +51,11 @@
 
         Event Details: <br>
         <ul>
-            <li>The Grand Feast Europe and UK 2024</li>
-            <li>Date: September 22, 2024</li>
-            <li>Time: 9:00 AM to 12:00 PM CET</li>
-            <li>Venue: Hotel nhow Brussels Bloom: Rue Royale</li>
-            <li>Address: Koningsstraat 250 1210 Brussels Belgium</li>
+            <li>2025 EU and UK Grand Feast in Oslo</li>
+            <li>Date: September 20, 2024</li>
+            <li>Time: 1:00 PM to 5:00 PM CET</li>
+            <li>Venue: Lambertseter kirke</li>
+            <li>Address: Langbølgen 33, 1150 Oslo, Norway</li>
         </ul>
 
 
@@ -64,7 +64,7 @@
         <br>
 
         Have a blessed day! <br>
-        The Grand Feast Europe and UK Team <br>
+        The Grand Feast EU and UK Team <br>
         <br>
 
         <hr>

@@ -77,20 +77,20 @@
         <ul>
             <li>
                 <h3>
-                    The Grand Feast Europe and UK 2024
+                    The Grand Feast Europe and UK 2025
                 </h3>
                 <ul>
                     <li>
-                        9:00 AM to 12:00 PM
+                        1:00 PM to 5:00 PM
                     </li>
                     <li>
-                        September 22, 2024
+                        September 20, 2025
                     </li>
                     <li>
-                        <a href="https://www.nh-hotels.com/en/hotel/nhow-brussels-bloom">
-                            <b>Hotel nhow Brussels Bloom:</b>
+                        <a href="https://www.kirken.no/lambertseter">
+                            <b> Lambertseter kirke :</b>
                         </a> 
-                        Rue Royale - Koningsstraat 250 1210 Brussels Belgium
+                        Langbølgen 33, 1150 Oslo, Norway
                     </li>
                 </ul>
             </li>
@@ -98,16 +98,15 @@
 
             <h4>Ticket Types</h4>
             <ul>
-                <li>Standard - 35 €</li>
-                <li>VIP - 55 € <span>(Limited to 40 seats only)</span></li>
-                    <b>VIP ticket perks:</b>
+                <li>Standard - 30 €</li>
+                <li>Premium - 50 € <span>(Limited to 40 seats only)</span></li>
+                    <b>Premium ticket perks:</b>
                     <ul>
                         <li>Premium seating area.</li>
                         <li>One Bo Sanchez book.</li>
                         <li>Priority access to the book signing.</li>
-                        <li>Meet-and-greet and photo opportunity with Bo Sanchez.</li>
+                        <li>Meet-and-greet and photo opportunity with Bro. Bo.</li>
                     </ul>
-                <li>Youth (12 to 17 years old) - 17 €</li>
                 <li>Child (Under 12 years old) - FREE ADMISSION (when accompanied by a paying adult)</li>
                 
 

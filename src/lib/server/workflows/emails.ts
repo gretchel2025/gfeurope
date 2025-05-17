@@ -88,7 +88,7 @@ export async function SendTicketsEmail(booking_reference_no: string): Promise<vo
                                 <div class="container" style="background-color: #f7f5ed; font-family: "Tahoma", sans-serif;">
                                     <h2>Dear ${booking.name},</h2>
                                     <p>
-                                        Here are your eTickets for the Grand Feast Europe and UK 2024. 
+                                        Here are your eTickets for the 2025 EU and UK Grand Feast in Oslo. 
                                         Please remember to bring your e-ticket with the QR code, as you'll need it for entry at the venue. 
                                         Having your e-ticket ready for scanning will make check-in quick and easy.
                                     </p>
@@ -130,11 +130,11 @@ export async function SendTicketsEmail(booking_reference_no: string): Promise<vo
 
                                     Event Details: <br>
                                     <ul>
-                                        <li>The Grand Feast Europe and UK 2024</li>
-                                        <li>Date: September 22, 2024</li>
-                                        <li>Time: 9:00 AM to 12:00 PM CET</li>
-                                        <li>Venue: Hotel nhow Brussels Bloom: Rue Royale</li>
-                                        <li>Address: Koningsstraat 250 1210 Brussels Belgium</li>
+                                        <li>2025 EU and UK Grand Feast in Oslo</li>
+                                        <li>Date: September 20, 2024</li>
+                                        <li>Time: 1:00 PM to 5:00 PM CET</li>
+                                        <li>Venue: Lambertseter kirke</li>
+                                        <li>Address: Langbølgen 33, 1150 Oslo, Norway</li>
                                     </ul>
 
 
@@ -143,7 +143,7 @@ export async function SendTicketsEmail(booking_reference_no: string): Promise<vo
                                     <br>
 
                                     Have a blessed day! <br>
-                                    The Feast Europe and UK Team <br>
+                                    The Feast EU and UK Team <br>
                                     <br>
 
                                     <hr>
@@ -241,17 +241,17 @@ export async function SendPaymentReminder(booking_reference_no: string): Promise
                                     
                                     <br>
                                     <ul>
-                                        <li>Recipient: <span class="highlight">THE FEAST BRUSSELS (LIGHT OF JESUS FAMILY)</span></li>
-                                        <li>Bank Details: <span class="highlight">BE53001757936353</span></li>
-                                        <li>BIC: <span class="highlight">GEBABEBB</span></li>
-                                        <li>Bank Name: <span class="highlight">BNP PARIBAS FORTIS</span></li>
+                                        <li>Recipient: <span class="highlight">Light of Jesus Family (The Feast Norway)</span></li>
+                                        <li>Bank Details: <span class="highlight">NO2215202093202</span></li>
+                                        <li>BIC: <span class="highlight">DNBANOKKXXX</span></li>
+                                        <li>Bank Name: <span class="highlight">DNB Bank ASA</span></li>
                                         <li>Purpose: <span class="highlight">${booking.reference_no}</span></li>
                                         <li>Payable Amount: <span class="highlight">${booking.amount_total} €</span> (EURO)</li>
                                     </ul>
                                     <br>
                                     
                                     <p>
-                                        Remember to indicate the unique booking reference number: <span class="highlight">${booking.reference_no}</span> 
+                                        Remember to indicate the unique BOOKING REFERENCE number: <span class="highlight">${booking.reference_no}</span> 
                                         as purpose so that we can allocate your payment.
                                         We want to inform you that it may take up to <span class="highlight">48H</span> 
                                         to verify your payment.
@@ -265,12 +265,12 @@ export async function SendPaymentReminder(booking_reference_no: string): Promise
                                     </p> 
                                     <br>
                                     <p>
-                                        Thank you for your booking, and we are excited to see you at The Grand Feast in Brussels.
+                                        Thank you for your booking, and we are excited to see you at The Grand Feast in Oslo.
                                     </p>
                                     <br>
                                     <br>
                                     <p>Best regards,</p>
-                                    <p><span class="highlight">The Feast Europe and UK Team</span></p>
+                                    <p><span class="highlight">The Feast EU and UK Team</span></p>
                                     
                                     <br>
                                     <hr>
@@ -360,7 +360,7 @@ export async function SendBookingConfirmation(booking: Booking): Promise<void> {
                                 <div class="container">
                                 
                                     <h1>Hello ${booking.name},</h1>
-                                    <h2>Greetings from The Feast Europe and UK!</h2>
+                                    <h2>Greetings from The Feast EU and UK!</h2>
 
                                     <p>
                                         In this email you will find the instructions on how to pay for your ticket reservation. 
@@ -370,10 +370,10 @@ export async function SendBookingConfirmation(booking: Booking): Promise<void> {
                                     
                                     <br>
                                     <ul>
-                                        <li>Recipient: <span class="highlight">THE FEAST BRUSSELS (LIGHT OF JESUS FAMILY)</span></li>
-                                        <li>Bank Details: <span class="highlight">BE53001757936353</span></li>
-                                        <li>BIC: <span class="highlight">GEBABEBB</span></li>
-                                        <li>Bank Name: <span class="highlight">BNP PARIBAS FORTIS</span></li>
+                                        <li>Recipient: <span class="highlight">Light of Jesus Family (The Feast Norway)</span></li>
+                                        <li>Bank Details: <span class="highlight">NO2215202093202</span></li>
+                                        <li>BIC: <span class="highlight">DNBANOKKXXX</span></li>
+                                        <li>Bank Name: <span class="highlight">DNB Bank ASA</span></li>
                                         <li>Purpose: <span class="highlight">${booking.reference_no}</span></li>
                                         <li>Payable Amount: <span class="highlight">${booking.amount_total} €</span> (EURO)</li>
                                     </ul>
@@ -394,12 +394,12 @@ export async function SendBookingConfirmation(booking: Booking): Promise<void> {
                                     </p> 
                                     <br>
                                     <p>
-                                        Thank you for your booking, and we are excited to see you at The Grand Feast in Brussels.
+                                        Thank you for your booking, and we are excited to see you at The Grand Feast in Oslo.
                                     </p>
                                     <br>
                                     <br>
                                     <p>Best regards,</p>
-                                    <p><span class="highlight">The Feast Europe and UK Team</span></p>
+                                    <p><span class="highlight">The Feast EU and UK Team</span></p>
 
                                     <br>
                                     <hr>
